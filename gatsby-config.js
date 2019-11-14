@@ -44,5 +44,5 @@ module.exports = {
     `gatsby-plugin-sharp`,
     `gatsby-plugin-playground`,
   ],
-  pathPrefix: '/gatsby-tutorial',
+  pathPrefix: '/gatsby-preview-contentful',
 }
